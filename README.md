@@ -4,6 +4,7 @@
 
 
 ## English Version
+#Análise_Vendas
 
 ### 📋 Project Overview
 This project was developed to consolidate an **integrated view of financial indicators**, utilizing the robustness of **Python** for data processing and the dynamism of **Power BI** for visual exploration. The structure was designed following **UX Design** principles and the **Inverted Pyramid** logic, where the **Executive Summary** delivers critical answers immediately, serving as a command center for management.
@@ -26,14 +27,14 @@ This dashboard correlates revenue and costs directly within the **Executive Summ
 * **🏆 Administrative Performance Benchmark**: This sector consolidates itself as the most efficient in the organization, operating with a cost margin of only **45%** over its own revenue. Furthermore, the area demonstrates strategic relevance by accounting for **27% of the company's global revenue**.
 * **⚠️ Point of Attention (Logistics)**: Cross-analysis revealed that **Logistics** has the highest cost weight relative to revenue (approx. **65%**), signaling a process optimization opportunity.
 
-![Executive Summary](sumario_executivo.png)
+![Executive Summary](1_sumario_executivo.png)
 
 #### 2. Sales Performance and Talents
 Detailed view of **Top Performers** and **Global KPIs**.
 
 **Benchmark of Talent**: The **Operations** sector stands out for having the employee with the largest active portfolio (**6 contracts**), serving as a model for the suggested cross-training program.
 
-![Sales Performance](performance_vendas.png)
+![Sales Performance](2_performance_vendas.png)
 
 #### 3. Area View and Representativeness
 Analysis of revenue distribution and **Average Ticket** behavior in each organizational sector.
@@ -45,12 +46,12 @@ Analysis of revenue distribution and **Average Ticket** behavior in each organiz
 
 * **⚠️ Point of Attention (Logistics)**: Analysis revealed that this sector consumes **65%** of its revenue in costs, making it the primary candidate for process reviews to improve global profitability.
 
-![Area View](visao_por_area.png)
+![Area View](3_visao_por_area.png)
 
 #### 4. Productivity and Scale Capacity
 Evaluation of the relationship between the number of employees per area and contract volume.
 
-![Productivity](produtividade.png)
+![Productivity](4_produtividade.png)
 
 ### 🛠️ Technology Stack
 
@@ -63,6 +64,8 @@ Evaluation of the relationship between the number of employees per area and cont
 
 
 ## Versão em Português 
+
+# Análise_Vendas
 
 ### 📋 Visão Geral do Projeto
 Este projeto foi desenvolvido para consolidar uma **visão integrada de indicadores financeiros**, utilizando a robustez do Python para o tratamento de dados e o dinamismo do Power BI para a exploração visual. A estrutura foi desenhada seguindo princípios de **UX Design** e a lógica da **Pirâmide Invertida**, em que o **Sumário Executivo** entrega as respostas mais críticas de imediato, funcionando como o centro de comando para a gestão.
@@ -86,7 +89,7 @@ Este dashboard correlaciona faturamento e custos diretamente no **Sumário Execu
 * **🏆Liderança de Performance do Administrativo**: O setor consolida-se como o mais eficiente da organização, operando com uma margem de custo de apenas 45% sobre sua receita própria. Além disso, a área demonstra sua relevância estratégica ao responder por 27% do faturamento global da companhia.
 * **⚠️Ponto de Atenção (Logística)**: A análise cruzada revelou que a Logística possui o maior peso de custo sobre a receita (aprox. 65%), sinalizando uma oportunidade de otimização de processos.
 
-![Sumário Executivo](sumario_executivo.png)
+![Sumário Executivo](1_sumario_executivo.png)
 
 #### 2. Performance de Vendas e Talentos
 
@@ -94,7 +97,7 @@ Visão detalhada dos Top Performers e KPIs Globais.
 
 **Benchmark de Talento**: O setor de Operações destaca-se por ter o funcionário com maior carteira ativa (**6 contratos**), servindo de modelo para o programa de cross-training sugerido.
 
-![Performance de Vendas](performance_vendas.png)
+![Performance de Vendas](2_performance_vendas.png)
 
 #### 3. Visão por Área e Representatividade
 
@@ -109,12 +112,12 @@ Contraste de Performance:
 
 * **⚠️Ponto de Atenção (Logística)**: A análise revelou que este setor consome **65%** do seu faturamento com custos, sendo o principal candidato a revisões de processos para melhoria da lucratividade global.
 
-![Visão por Área](visao_por_area.png)
+![Visão por Área](3_visao_por_area.png)
 
 #### 4. Produtividade e Capacidade de Escala
 Avaliação da relação entre o quadro de funcionários por área e o volume de contratos.
 
-![Produtividade](produtividade.png)
+![Produtividade](4_produtividade.png)
 
 ### 🛠️ Stack Tecnológica
 
