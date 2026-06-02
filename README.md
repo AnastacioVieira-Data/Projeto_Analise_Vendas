@@ -1,4 +1,4 @@
-# 💹Contract Performance Analysis (Python + Power BI) | Análise de Performance de Contratos (Python + Power BI)
+# 💹Sales Performance Analysis (Python + Power BI) | Análise de Performance de Vendas (Python + Power BI)
 
 [English Version](#english-version) | [Versão em Português](#versão-em-português)
 
@@ -65,7 +65,6 @@ Evaluation of the relationship between the number of employees per area and cont
 
 ## Versão em Português 
 
-# Análise_Vendas
 
 ### 📋 Visão Geral do Projeto
 Este projeto foi desenvolvido para consolidar uma **visão integrada de indicadores financeiros**, utilizando a robustez do Python para o tratamento de dados e o dinamismo do Power BI para a exploração visual. A estrutura foi desenhada seguindo princípios de **UX Design** e a lógica da **Pirâmide Invertida**, em que o **Sumário Executivo** entrega as respostas mais críticas de imediato, funcionando como o centro de comando para a gestão.
